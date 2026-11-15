@@ -7,7 +7,6 @@
 
   <br/><br/>
 
-
   <!-- ======================== ANIMATED TYPING HEADER ======================== -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=750&height=50&lines=Hi+there!+I'm+Ayush+Pandey+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;B.Tech+Electronics+%26+Telecom+%40+MITS+Gwalior+%E2%9A%A1;MERN+Stack+%2B+Socket.IO+Real-Time+Architect+%F0%9F%9A%80;Problem+Solver+%7C+DSA+%7C+LeetCode+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
