@@ -1,53 +1,60 @@
 <div align="center">
 
   <!-- ======================== BANNER ======================== -->
-  <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/banner.png" alt="Ayush Pandey Banner" width="100%" style="border-radius: 14px;" />
+  <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/banner.png" alt="Ayush Pandey Banner" width="100%" style="border-radius: 14px;" />
+  </a>
 
   <br/><br/>
 
   <!-- ======================== ANIMATED TYPING HEADER ======================== -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&height=50&lines=Hi+there!+I'm+Ayush+Pandey+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;B.Tech+Electronics+%26+Telecom+%40+MITS+Gwalior+%E2%9A%A1;MERN+Stack+%2B+Socket.IO+Real-Time+Architect+%F0%9F%9A%80;Problem+Solver+%7C+DSA+%7C+LeetCode+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=750&height=50&lines=Hi+there!+I'm+Ayush+Pandey+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;B.Tech+Electronics+%26+Telecom+%40+MITS+Gwalior+%E2%9A%A1;MERN+Stack+%2B+Socket.IO+Real-Time+Architect+%F0%9F%9A%80;Problem+Solver+%7C+DSA+%7C+LeetCode+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 
-  <!-- ======================== PROFILE VIEWS & STATS BADGES ======================== -->
+  <!-- ======================== PROFILE VIEWS & STATUS BADGES ======================== -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ayush123-star&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/ayush123-star?label=FOLLOWERS&logo=github&style=for-the-badge&color=238636" alt="GitHub Followers" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open to Work" />
+    <img src="https://img.shields.io/github/followers/ayush123-star?label=FOLLOWERS&logo=github&style=for-the-badge&color=8B5CF6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open to Opportunities" />
+    <img src="https://img.shields.io/badge/LOCATION-GWALIOR%2C_INDIA-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
-  <!-- ======================== INTERACTIVE QUICK CONNECT CARDS ======================== -->
-  <h2>⚡ Quick Connect & Profiles</h2>
-  <p><i>Click any card below to directly open my live profiles & portfolio:</i></p>
+  <!-- ======================== QUICK CONNECT & DIRECT PROFILES ======================== -->
+  <h2>
+    <font color="#C084FC">⚡</font>
+    <font color="#A855F7">Connect With Me</font>
+    <font color="#C084FC">⚡</font>
+  </h2>
+  <p><font color="#94A3B8"><i>Click any photo card or button below to directly open my live profiles:</i></font></p>
 
   <table align="center" border="0" cellpadding="6" cellspacing="6">
     <tr>
       <td align="center">
         <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_portfolio.png" width="180px" alt="Live Portfolio" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_portfolio.png" width="185px" alt="Live Portfolio" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/ayush-pandey-a9161b275" target="_blank">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_linkedin.png" width="180px" alt="LinkedIn Profile" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_linkedin.png" width="185px" alt="LinkedIn Profile" />
         </a>
       </td>
       <td align="center">
         <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_leetcode.png" width="180px" alt="LeetCode Profile" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_leetcode.png" width="185px" alt="LeetCode Profile" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ayush123-star" target="_blank">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_github.png" width="180px" alt="GitHub Profile" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_github.png" width="185px" alt="GitHub Profile" />
         </a>
       </td>
       <td align="center">
         <a href="mailto:pandeyayush1603@gmail.com">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_gmail.png" width="180px" alt="Email Me" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_gmail.png" width="185px" alt="Email Me" />
         </a>
       </td>
     </tr>
@@ -55,7 +62,7 @@
 
   <br/>
 
-  <!-- Direct Badge Pills -->
+  <!-- High-Res Direct Badges -->
   <p align="center">
     <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -81,57 +88,69 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+
 <!-- ======================== ABOUT ME ======================== -->
-## 👨‍💻 About Me
+## <font color="#A855F7">✦</font> <font color="#C084FC">About Me</font>
 
-```yaml
-Name: Ayush Pandey
-Location: Gwalior, Madhya Pradesh, India 📍
-Degree: B.Tech in Electronics & Telecommunication (2025–2029) 🎓
-Institution: Madhav Institute of Technology and Science (MITS), Gwalior
-Focus: Full-Stack Web Development, Real-Time Systems, DSA & Hardware Integration
-Current Role: Technical Team Member @ IEEE MTT-S Student Branch Chapter
-Past Role: Web Development Intern @ Thiranex
-Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japanese 🏯
-```
-
-- 🚀 **Full-Stack Developer** passionate about architecting scalable web applications, real-time communication systems, and bridging the gap between software and hardware.
-- 🎓 Combining strong analytical problem-solving skills with hands-on full-stack development.
-- 💡 Experienced with **Node.js, Express, Socket.IO, JavaScript, REST APIs, MongoDB, SQL** and modern responsive UI/UX architecture.
-- 🎯 Constantly grinding Data Structures & Algorithms on **LeetCode** and participating in competitive programming contests.
-- 💬 Ask me about **WebSockets, Full-Stack Architecture, JavaScript Internals, and Frontend Design Systems**.
-- 📫 Reach me directly at: **[pandeyayush1603@gmail.com](mailto:pandeyayush1603@gmail.com)** or **[+91 90395 67623](tel:+919039567623)**.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        👋 <b>Hi, I'm <font color="#A855F7">Ayush Pandey</font></b> — a passionate Full-Stack Developer and Electronics & Telecommunication Engineering student at <b>Madhav Institute of Technology and Science (MITS), Gwalior</b> (2025–2029).
+      </p>
+      <p>
+        ⚡ <b>What I Do:</b> I specialize in engineering scalable web architectures, high-concurrency real-time WebSocket applications, and responsive, accessible user interfaces. I love combining analytical engineering problem-solving with cutting-edge software development.
+      </p>
+      <p>
+        🎯 <b>DSA & Problem Solving:</b> Regularly solving algorithmic challenges on <b>LeetCode</b> and competing in coding contests to write clean, time-complexity-optimized code.
+      </p>
+      <p>
+        🎸 <b>Beyond Code:</b> Passionate about acoustic guitar, creative photography, and exploring Japanese culture and linguistics.
+      </p>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <div align="center">
+        <img src="https://img.shields.io/badge/🎓_College-MITS_Gwalior-7C3AED?style=flat-square&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/⚡_Club-IEEE_MTT--S_Member-0284C7?style=flat-square&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/💼_Specialty-MERN_%26_Socket.IO-10B981?style=flat-square&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/📍_City-Gwalior%2C_MP-EC4899?style=flat-square&logoColor=white" /><br/><br/>
+        <img src="https://img.shields.io/badge/📫_Email-pandeyayush1603-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+
 <!-- ======================== TECH STACK & SKILLS ======================== -->
-## 🛠️ Tech Stack & Skills
+## <font color="#A855F7">✦</font> <font color="#C084FC">Tech Stack & Tools</font>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,react,python,c,cpp,git,github,postman,vscode,figma,tailwind,bootstrap&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,react,python,c,cpp,git,github,postman,vscode,figma,tailwind,bootstrap&perline=9" alt="Skills Matrix" />
 </div>
 
 <br/>
 
-### 💻 Categories & Tooling
-
-| Category | Technologies & Tools |
+| Domain | Technologies, Frameworks & Tools |
 | :--- | :--- |
-| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend & Real-Time** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) |
-| **Languages & DSA** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Data Structures](https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
-| **Databases & Storage** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **DevOps & Hosting** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) |
-| **Software & Analytics** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| <font color="#EC4899"><b>Frontend Development</b></font> | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| <font color="#38BDF8"><b>Backend & Real-Time</b></font> | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white) |
+| <font color="#FBBF24"><b>Languages & DSA</b></font> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Data Structures](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) |
+| <font color="#34D399"><b>Databases & Storage</b></font> | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| <font color="#A855F7"><b>DevOps & Deployment</b></font> | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) |
+| <font color="#F43F5E"><b>Analytics & Design</b></font> | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
 <!-- ======================== FEATURED PROJECTS SHOWCASE WITH PHOTOS ======================== -->
-## 🚀 Featured Projects Showcase
+## <font color="#A855F7">✦</font> <font color="#C084FC">Featured Projects Showcase</font>
 
-*Every project uploaded on GitHub presented with interactive previews, tech stacks, live demos and repository links:*
+*<font color="#94A3B8">Every project uploaded on GitHub presented with interactive photo cards, tech stacks, live demos, and source codes:</font>*
 
 <table align="center" width="100%" border="0" cellpadding="8">
   <!-- ROW 1 -->
@@ -141,8 +160,8 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
         <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/chat-app.png" width="100%" alt="Real-Time Chat Application" />
       </a>
       <br/>
-      <b>💬 Real-Time Chat Application</b>
-      <p>Instant bidirectional chat app with live user join notifications & zero page reloads.</p>
+      <b><font color="#C084FC">💬 Real-Time Chat Application</font></b>
+      <p><font color="#94A3B8">Instant bidirectional chat app with live user join notifications & zero page reloads.</font></p>
       <a href="https://my-realtime-chatapp-irvq.onrender.com" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Live_Demo-A855F7?style=for-the-badge&logoColor=white" />
       </a>
@@ -155,8 +174,8 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
         <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/mits-canteen.png" width="100%" alt="MITS Canteen Platform" />
       </a>
       <br/>
-      <b>🍔 MITS Canteen Management</b>
-      <p>Digital ordering and cafeteria workflow system built specifically for MITS campus.</p>
+      <b><font color="#F97316">🍔 MITS Canteen Management</font></b>
+      <p><font color="#94A3B8">Digital ordering and cafeteria workflow system built specifically for MITS campus.</font></p>
       <a href="https://mits-canteen.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Live_Demo-F97316?style=for-the-badge&logoColor=white" />
       </a>
@@ -173,8 +192,8 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
         <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/weather-dashboard.png" width="100%" alt="Weather Dashboard" />
       </a>
       <br/>
-      <b>🌦️ Real-Time Weather Dashboard</b>
-      <p>Global weather tracker querying Open-Meteo REST API for live temperature, wind & pressure.</p>
+      <b><font color="#38BDF8">🌦️ Real-Time Weather Dashboard</font></b>
+      <p><font color="#94A3B8">Global weather tracker querying Open-Meteo REST API for live temperature, wind & pressure.</font></p>
       <a href="https://ayush123-star.github.io/Whether-Dashboard-/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Live_Demo-38BDF8?style=for-the-badge&logoColor=black" />
       </a>
@@ -187,8 +206,8 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
         <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/currency-converter.png" width="100%" alt="Currency Converter" />
       </a>
       <br/>
-      <b>💱 Real-Time Currency Converter</b>
-      <p>Live exchange rate converter with automatic country flag changes & quick swap mechanics.</p>
+      <b><font color="#22C55E">💱 Real-Time Currency Converter</font></b>
+      <p><font color="#94A3B8">Live exchange rate converter with automatic country flag changes & quick swap mechanics.</font></p>
       <a href="https://ayush123-star.github.io/currency-converter-/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logoColor=white" />
       </a>
@@ -205,8 +224,8 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
         <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/css-architecture.png" width="100%" alt="CSS3 Architecture" />
       </a>
       <br/>
-      <b>🎨 Advanced CSS3 Architecture</b>
-      <p>Pixel-perfect modern showcase featuring 2D CSS Grid, Flexbox, custom tokens & fluid typography.</p>
+      <b><font color="#EC4899">🎨 Advanced CSS3 Architecture</font></b>
+      <p><font color="#94A3B8">Pixel-perfect modern showcase featuring 2D CSS Grid, Flexbox, custom tokens & fluid typography.</font></p>
       <a href="https://ayush123-star.github.io/Advanced-CSS3-Responsive-Architecture/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Live_Demo-EC4899?style=for-the-badge&logoColor=white" />
       </a>
@@ -219,8 +238,8 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
         <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/webpage-ieee.png" width="100%" alt="IEEE Webpage" />
       </a>
       <br/>
-      <b>⚡ IEEE MTT-S Workshop Registration</b>
-      <p>Accessible event portal with track selection, drag-and-drop resume upload & RegEx validation.</p>
+      <b><font color="#A855F7">⚡ IEEE MTT-S Workshop Registration</font></b>
+      <p><font color="#94A3B8">Accessible event portal with track selection, drag-and-drop resume upload & RegEx validation.</font></p>
       <a href="https://ayush123-star.github.io/webpage/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Live_Demo-9333EA?style=for-the-badge&logoColor=white" />
       </a>
@@ -237,8 +256,8 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
         <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/tic-tac-toe.png" width="100%" alt="Tic-Tac-Toe Game" />
       </a>
       <br/>
-      <b>🎮 Interactive Tic-Tac-Toe Game</b>
-      <p>Classic 2-player browser game with win/draw detection, game reset & dynamic audio effects.</p>
+      <b><font color="#8B5CF6">🎮 Interactive Tic-Tac-Toe Game</font></b>
+      <p><font color="#94A3B8">Classic 2-player browser game with win/draw detection, game reset & dynamic audio effects.</font></p>
       <a href="https://ayush123-star.github.io/tic-tac-toe-game/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Live_Demo-8B5CF6?style=for-the-badge&logoColor=white" />
       </a>
@@ -251,8 +270,8 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
         <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/rock-paper-scissors.png" width="100%" alt="Rock Paper Scissors" />
       </a>
       <br/>
-      <b>✂️ Rock Paper Scissors Game</b>
-      <p>Player-vs-computer game with live score tracking, random AI move logic & sound effects.</p>
+      <b><font color="#EAB308">✂️ Rock Paper Scissors Game</font></b>
+      <p><font color="#94A3B8">Player-vs-computer game with live score tracking, random AI move logic & sound effects.</font></p>
       <a href="https://ayush123-star.github.io/Rock-Paper-Scissors-1/" target="_blank">
         <img src="https://img.shields.io/badge/🚀_Live_Demo-EAB308?style=for-the-badge&logoColor=black" />
       </a>
@@ -276,7 +295,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
 <!-- ======================== GITHUB STATS & STREAK & LEETCODE ======================== -->
-## 📊 Activity, GitHub Stats & LeetCode Performance
+## <font color="#A855F7">✦</font> <font color="#C084FC">Activity, GitHub Stats & LeetCode Performance</font>
 
 <div align="center">
 
@@ -303,7 +322,11 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
   <br/>
 
   <!-- LEETCODE CARD -->
-  <h3>⚡ LeetCode Problem Solving Stats</h3>
+  <h3>
+    <font color="#FFA116">⚡</font>
+    <font color="#C084FC">LeetCode DSA Problem Solving Stats</font>
+    <font color="#FFA116">⚡</font>
+  </h3>
   <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
     <img src="https://leetcard.jacoblin.cool/mf6KatW2Tw?theme=radical&font=baloo&ext=activity" alt="Ayush's LeetCode Stats" />
   </a>
@@ -315,7 +338,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
 <!-- ======================== SNAKE ANIMATION ======================== -->
-## 🐍 GitHub Contribution Snake Animation
+## <font color="#A855F7">✦</font> <font color="#C084FC">Contribution Snake Animation</font>
 
 <div align="center">
   <picture>
@@ -327,47 +350,32 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
 
 <br/>
 
-<!-- ======================== EXPERIENCE & EDUCATION ======================== -->
-## 🎓 Experience & Journey
-
-```
-┌── [2025 – 2029] B.Tech in Electronics & Telecommunication Engineering
-│   🏫 Madhav Institute of Technology and Science (MITS), Gwalior
-│   Focus: Core Electronics, Signal Processing, Embedded Systems & Full-Stack Development
-│
-├── [Oct 2026 – Present] Technical Team Member
-│   🏛️ IEEE MTT-S Student Branch Chapter, MITS-DU
-│   Contributing to technical workshops, RF & microwave initiatives, and campus projects
-│
-└── [Sep 2026 – Oct 2026] Web Development Intern
-    🏢 Thiranex
-    Developed responsive web interfaces, integrated front-end with back-end, and optimized UI workflows
-```
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
 <!-- ======================== CERTIFICATIONS & HACKATHONS ======================== -->
-## 🏆 Certifications, Hackathons & Achievements
+## <font color="#A855F7">✦</font> <font color="#C084FC">Certifications & Hackathons</font>
 
-- 🏅 **Automate India Hackathon 2026** – Powered by HackBriven at Microsoft Office, Noida
-- 🌟 **Google Student Ambassador Program 2026** – Fund My Crazy: Build Night Edition
-- 💻 **GFG - Code Rush** – Competitive Programming & Algorithmic Problem Solving
-- 🎯 **No Code Knockout** – IETE Students' Forum, MITS-DU
-- 📊 **MS Power Bootcamp & Power BI** – Department of ETE & IETE Bhopal Center
-- ⚡ **Renewable Energy at URJA 2026** – Electrical Engineering Department
-- 📜 **Web Development Internship Certificate & LOR** – Thiranex
-- 🎖️ **Internship Common Aptitude Test (ICAT)**
+- 🏅 **<font color="#A855F7">Automate India Hackathon 2026</font>** – Powered by HackBriven at Microsoft Office, Noida
+- 🌟 **<font color="#38BDF8">Google Student Ambassador Program 2026</font>** – Fund My Crazy: Build Night Edition
+- 💻 **<font color="#FBBF24">GFG - Code Rush</font>** – Competitive Programming & Algorithmic Problem Solving
+- 🎯 **<font color="#EC4899">No Code Knockout</font>** – IETE Students' Forum, MITS-DU
+- 📊 **<font color="#34D399">MS Power Bootcamp & Power BI</font>** – Department of ETE & IETE Bhopal Center
+- ⚡ **<font color="#F97316">Renewable Energy at URJA 2026</font>** – Electrical Engineering Department
+- 📜 **<font color="#C084FC">Web Development Internship Certificate & LOR</font>** – Thiranex
+- 🎖️ **<font color="#38BDF8">Internship Common Aptitude Test (ICAT)</font>**
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
 <!-- ======================== CONTACT ME FOOTER ======================== -->
-## 📬 Get In Touch
+## <font color="#A855F7">✦</font> <font color="#C084FC">Let's Connect & Talk</font>
 
 <p align="center">
-  I am actively looking for internship, fellowship, and collaborative development opportunities.<br/>
-  <b>Whether you have a project idea, question, or just want to say hi — feel free to reach out!</b>
+  <font color="#94A3B8">
+    I am actively looking for internship, fellowship, and collaborative development opportunities.<br/>
+    <b>Whether you have a project idea, question, or just want to say hi — my inbox is always open!</b>
+  </font>
 </p>
 
 <div align="center">
@@ -388,11 +396,11 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
   <br/><br/>
 
   <p align="center">
-    <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+    <font color="#A855F7"><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></font>
   </p>
 
   <p align="center">
-    Designed with ❤️ by <b>Ayush Pandey</b> • © 2026 All Rights Reserved
+    Designed with ❤️ by <b><font color="#C084FC">Ayush Pandey</font></b> • © 2026 All Rights Reserved
   </p>
 
 </div>
