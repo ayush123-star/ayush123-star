@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LOCATION-GWALIOR%2C_INDIA-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
   <!-- ======================== QUICK CONNECT & DIRECT PROFILES ======================== -->
   <h2>
@@ -73,7 +73,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
 <!-- ======================== ABOUT ME ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">About Me</font>
@@ -97,7 +97,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
 <!-- ======================== TECH STACK & SKILLS ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Tech Stack & Tools</font>
@@ -119,7 +119,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
 <!-- ======================== FEATURED PROJECTS SHOWCASE WITH PHOTOS ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Featured Projects Showcase</font>
@@ -259,7 +259,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
 <!-- ======================== GITHUB STATS & STREAK & LEETCODE ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Activity, GitHub Stats & LeetCode Performance</font>
@@ -292,7 +292,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
 <!-- ======================== SNAKE ANIMATION ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Contribution Snake Animation</font>
@@ -307,7 +307,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
 <!-- ======================== CERTIFICATIONS & HACKATHONS ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Certifications & Hackathons</font>
@@ -323,7 +323,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
 <!-- ======================== CONTACT ME FOOTER ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Let's Connect & Talk</font>
