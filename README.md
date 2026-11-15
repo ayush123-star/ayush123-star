@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ======================== BANNER ======================== -->
-  <img src="assets/banner.png" alt="Ayush Pandey Banner" width="100%" style="border-radius: 14px;" />
+  <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/banner.png" alt="Ayush Pandey Banner" width="100%" style="border-radius: 14px;" />
 
   <br/><br/>
 
@@ -27,27 +27,27 @@
     <tr>
       <td align="center">
         <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
-          <img src="assets/connect/badge_portfolio.png" width="180px" alt="Live Portfolio" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_portfolio.png" width="180px" alt="Live Portfolio" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/ayush-pandey-a9161b275" target="_blank">
-          <img src="assets/connect/badge_linkedin.png" width="180px" alt="LinkedIn Profile" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_linkedin.png" width="180px" alt="LinkedIn Profile" />
         </a>
       </td>
       <td align="center">
         <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
-          <img src="assets/connect/badge_leetcode.png" width="180px" alt="LeetCode Profile" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_leetcode.png" width="180px" alt="LeetCode Profile" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ayush123-star" target="_blank">
-          <img src="assets/connect/badge_github.png" width="180px" alt="GitHub Profile" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_github.png" width="180px" alt="GitHub Profile" />
         </a>
       </td>
       <td align="center">
         <a href="mailto:pandeyayush1603@gmail.com">
-          <img src="assets/connect/badge_gmail.png" width="180px" alt="Email Me" />
+          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_gmail.png" width="180px" alt="Email Me" />
         </a>
       </td>
     </tr>
@@ -138,7 +138,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://my-realtime-chatapp-irvq.onrender.com" target="_blank">
-        <img src="assets/projects/chat-app.png" width="100%" alt="Real-Time Chat Application" />
+        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/chat-app.png" width="100%" alt="Real-Time Chat Application" />
       </a>
       <br/>
       <b>💬 Real-Time Chat Application</b>
@@ -152,7 +152,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://mits-canteen.vercel.app" target="_blank">
-        <img src="assets/projects/mits-canteen.png" width="100%" alt="MITS Canteen Platform" />
+        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/mits-canteen.png" width="100%" alt="MITS Canteen Platform" />
       </a>
       <br/>
       <b>🍔 MITS Canteen Management</b>
@@ -170,7 +170,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://ayush123-star.github.io/Whether-Dashboard-/" target="_blank">
-        <img src="assets/projects/weather-dashboard.png" width="100%" alt="Weather Dashboard" />
+        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/weather-dashboard.png" width="100%" alt="Weather Dashboard" />
       </a>
       <br/>
       <b>🌦️ Real-Time Weather Dashboard</b>
@@ -184,7 +184,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://ayush123-star.github.io/currency-converter-/" target="_blank">
-        <img src="assets/projects/currency-converter.png" width="100%" alt="Currency Converter" />
+        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/currency-converter.png" width="100%" alt="Currency Converter" />
       </a>
       <br/>
       <b>💱 Real-Time Currency Converter</b>
@@ -202,7 +202,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://ayush123-star.github.io/Advanced-CSS3-Responsive-Architecture/" target="_blank">
-        <img src="assets/projects/css-architecture.png" width="100%" alt="CSS3 Architecture" />
+        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/css-architecture.png" width="100%" alt="CSS3 Architecture" />
       </a>
       <br/>
       <b>🎨 Advanced CSS3 Architecture</b>
@@ -216,7 +216,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://ayush123-star.github.io/webpage/" target="_blank">
-        <img src="assets/projects/webpage-ieee.png" width="100%" alt="IEEE Webpage" />
+        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/webpage-ieee.png" width="100%" alt="IEEE Webpage" />
       </a>
       <br/>
       <b>⚡ IEEE MTT-S Workshop Registration</b>
@@ -234,7 +234,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://ayush123-star.github.io/tic-tac-toe-game/" target="_blank">
-        <img src="assets/projects/tic-tac-toe.png" width="100%" alt="Tic-Tac-Toe Game" />
+        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/tic-tac-toe.png" width="100%" alt="Tic-Tac-Toe Game" />
       </a>
       <br/>
       <b>🎮 Interactive Tic-Tac-Toe Game</b>
@@ -248,7 +248,7 @@ Passions: Web Architecture, Problem Solving, Guitar 🎸, Photography 📸, Japa
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://ayush123-star.github.io/Rock-Paper-Scissors-1/" target="_blank">
-        <img src="assets/projects/rock-paper-scissors.png" width="100%" alt="Rock Paper Scissors" />
+        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/rock-paper-scissors.png" width="100%" alt="Rock Paper Scissors" />
       </a>
       <br/>
       <b>✂️ Rock Paper Scissors Game</b>
