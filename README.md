@@ -90,12 +90,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
-<!-- ======================== ABOUT ME ======================== -->
+<!-- ======================== ABOUT ME WITH ANIMATED CYBERPUNK CODER ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">About Me</font>
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <p>
         👋 <b>Hi, I'm <font color="#A855F7">Ayush Pandey</font></b> — a passionate Full-Stack Developer and Electronics & Telecommunication Engineering student at <b>Madhav Institute of Technology and Science (MITS), Gwalior</b> (2025–2029).
       </p>
@@ -108,15 +108,15 @@
       <p>
         🎸 <b>Beyond Code:</b> Passionate about acoustic guitar, creative photography, and exploring Japanese culture and linguistics.
       </p>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <div align="center">
-        <img src="https://img.shields.io/badge/🎓_College-MITS_Gwalior-7C3AED?style=flat-square&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/⚡_Club-IEEE_MTT--S_Member-0284C7?style=flat-square&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/💼_Specialty-MERN_%26_Socket.IO-10B981?style=flat-square&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/📍_City-Gwalior%2C_MP-EC4899?style=flat-square&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/📫_Email-pandeyayush1603-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+      <br/>
+      <div>
+        <img src="https://img.shields.io/badge/🎓_College-MITS_Gwalior-7C3AED?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/⚡_Club-IEEE_MTT--S_Member-0284C7?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/💼_Specialty-MERN_%26_Socket.IO-10B981?style=flat-square&logoColor=white" />
       </div>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" alt="Cyberpunk Developer Animation" />
     </td>
   </tr>
 </table>
@@ -129,7 +129,7 @@
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Tech Stack & Tools</font>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,react,python,c,cpp,git,github,postman,vscode,figma,tailwind,bootstrap&perline=9" alt="Skills Matrix" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,react,python,git,github,postman,vscode,figma,tailwind,bootstrap&perline=8" alt="Skills Matrix" />
 </div>
 
 <br/>
@@ -138,7 +138,7 @@
 | :--- | :--- |
 | <font color="#EC4899"><b>Frontend Development</b></font> | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
 | <font color="#38BDF8"><b>Backend & Real-Time</b></font> | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white) |
-| <font color="#FBBF24"><b>Languages & DSA</b></font> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Data Structures](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) |
+| <font color="#FBBF24"><b>Languages & DSA</b></font> | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data_Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) ![Algorithms](https://img.shields.io/badge/Algorithms-8B5CF6?style=for-the-badge&logo=thealgorithms&logoColor=white) |
 | <font color="#34D399"><b>Databases & Storage</b></font> | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | <font color="#A855F7"><b>DevOps & Deployment</b></font> | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) |
 | <font color="#F43F5E"><b>Analytics & Design</b></font> | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
@@ -352,6 +352,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
+<!-- ======================== DYNAMIC DEV QUOTE EFFECT ======================== -->
+## <font color="#A855F7">✦</font> <font color="#C084FC">Daily Developer Fuel</font>
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/quotes-github-readme">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Dev Quote" />
+  </a>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
+
 <!-- ======================== CERTIFICATIONS & HACKATHONS ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Certifications & Hackathons</font>
 
@@ -402,5 +415,8 @@
   <p align="center">
     Designed with ❤️ by <b><font color="#C084FC">Ayush Pandey</font></b> • © 2026 All Rights Reserved
   </p>
+
+  <!-- Waving Gradient Footer Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35&height=90&section=footer" width="100%" />
 
 </div>
