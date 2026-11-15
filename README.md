@@ -7,12 +7,6 @@
 
   <br/><br/>
 
-  <!-- ======================== INTERACTIVE AUDIO GREETING ======================== -->
-  <a href="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/welcome.mp3" title="Click to play Welcome to my profile audio">
-    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/audio_player.png" width="90%" alt="🔊 Play Welcome Voice Greeting" />
-  </a>
-
-  <br/><br/>
 
   <!-- ======================== ANIMATED TYPING HEADER ======================== -->
   <a href="https://git.io/typing-svg">
