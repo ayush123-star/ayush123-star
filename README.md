@@ -7,6 +7,13 @@
 
   <br/><br/>
 
+  <!-- ======================== INTERACTIVE AUDIO GREETING ======================== -->
+  <a href="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/welcome.mp3" title="Click to play Welcome to my profile audio">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/audio_player.png" width="90%" alt="🔊 Play Welcome Voice Greeting" />
+  </a>
+
+  <br/><br/>
+
   <!-- ======================== ANIMATED TYPING HEADER ======================== -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=750&height=50&lines=Hi+there!+I'm+Ayush+Pandey+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;B.Tech+Electronics+%26+Telecom+%40+MITS+Gwalior+%E2%9A%A1;MERN+Stack+%2B+Socket.IO+Real-Time+Architect+%F0%9F%9A%80;Problem+Solver+%7C+DSA+%7C+LeetCode+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
@@ -28,41 +35,26 @@
     <font color="#A855F7">Connect With Me</font>
     <font color="#C084FC">⚡</font>
   </h2>
-  <p><font color="#94A3B8"><i>Click any photo card or button below to directly open my live profiles:</i></font></p>
+  <p><font color="#94A3B8"><i>Tap any card below to directly open my live profiles:</i></font></p>
 
-  <table align="center" border="0" cellpadding="6" cellspacing="6">
-    <tr>
-      <td align="center">
-        <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_portfolio.png" width="185px" alt="Live Portfolio" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/ayush-pandey-a9161b275" target="_blank">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_linkedin.png" width="185px" alt="LinkedIn Profile" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_leetcode.png" width="185px" alt="LeetCode Profile" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ayush123-star" target="_blank">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_github.png" width="185px" alt="GitHub Profile" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:pandeyayush1603@gmail.com">
-          <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_gmail.png" width="185px" alt="Email Me" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_portfolio.png" width="165px" alt="Live Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/ayush-pandey-a9161b275" target="_blank">
+      <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_linkedin.png" width="165px" alt="LinkedIn Profile" />
+    </a>
+    <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
+      <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_leetcode.png" width="165px" alt="LeetCode Profile" />
+    </a>
+    <a href="https://github.com/ayush123-star" target="_blank">
+      <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_github.png" width="165px" alt="GitHub Profile" />
+    </a>
+    <a href="mailto:pandeyayush1603@gmail.com">
+      <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_gmail.png" width="165px" alt="Email Me" />
+    </a>
+  </p>
 
-  <br/>
-
-  <!-- High-Res Direct Badges -->
   <p align="center">
     <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -90,36 +82,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
 
-<!-- ======================== ABOUT ME WITH ANIMATED CYBERPUNK CODER ======================== -->
+<!-- ======================== ABOUT ME ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">About Me</font>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        👋 <b>Hi, I'm <font color="#A855F7">Ayush Pandey</font></b> — a passionate Full-Stack Developer and Electronics & Telecommunication Engineering student at <b>Madhav Institute of Technology and Science (MITS), Gwalior</b> (2025–2029).
-      </p>
-      <p>
-        ⚡ <b>What I Do:</b> I specialize in engineering scalable web architectures, high-concurrency real-time WebSocket applications, and responsive, accessible user interfaces. I love combining analytical engineering problem-solving with cutting-edge software development.
-      </p>
-      <p>
-        🎯 <b>DSA & Problem Solving:</b> Regularly solving algorithmic challenges on <b>LeetCode</b> and competing in coding contests to write clean, time-complexity-optimized code.
-      </p>
-      <p>
-        🎸 <b>Beyond Code:</b> Passionate about acoustic guitar, creative photography, and exploring Japanese culture and linguistics.
-      </p>
-      <br/>
-      <div>
-        <img src="https://img.shields.io/badge/🎓_College-MITS_Gwalior-7C3AED?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/⚡_Club-IEEE_MTT--S_Member-0284C7?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/💼_Specialty-MERN_%26_Socket.IO-10B981?style=flat-square&logoColor=white" />
-      </div>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" alt="Cyberpunk Developer Animation" />
-    </td>
-  </tr>
-</table>
+> 🎓 **Engineering Student & Full-Stack Developer**  
+> Pursuing **B.Tech in Electronics & Telecommunication (2025–2029)** at **Madhav Institute of Technology and Science (MITS), Gwalior**.
+
+- 🚀 **Full-Stack Web Engineering:** Architecting scalable, responsive web applications using modern JavaScript, Node.js, Express, and Socket.IO.
+- ⚡ **Real-Time Communication:** Specialized in persistent bidirectional event messaging, live dashboards, and low-latency client-server workflows.
+- 🎯 **DSA & Algorithmic Problem Solving:** Actively solving challenges on **LeetCode** and participating in coding contests with a focus on optimal time & space complexity.
+- 🏛️ **Campus Leadership:** Technical Team Member at **IEEE MTT-S Student Branch Chapter, MITS-DU**.
+- 🎸 **Passions Beyond Coding:** Playing acoustic guitar, capturing moments through photography, and exploring Japanese culture and language.
+- 📫 **Direct Contact:** [pandeyayush1603@gmail.com](mailto:pandeyayush1603@gmail.com) • [+91 90395 67623](tel:+919039567623)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_College-MITS_Gwalior-7C3AED?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡_Club-IEEE_MTT--S_Member-0284C7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼_Specialty-Full--Stack_%26_Socket.IO-10B981?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍_Location-Gwalior%2C_MP-EC4899?style=flat-square&logoColor=white" />
+</div>
 
 <br/>
 
@@ -152,135 +133,128 @@
 
 *<font color="#94A3B8">Every project uploaded on GitHub presented with interactive photo cards, tech stacks, live demos, and source codes:</font>*
 
-<table align="center" width="100%" border="0" cellpadding="8">
-  <!-- ROW 1 -->
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://my-realtime-chatapp-irvq.onrender.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/chat-app.png" width="100%" alt="Real-Time Chat Application" />
-      </a>
-      <br/>
-      <b><font color="#C084FC">💬 Real-Time Chat Application</font></b>
-      <p><font color="#94A3B8">Instant bidirectional chat app with live user join notifications & zero page reloads.</font></p>
-      <a href="https://my-realtime-chatapp-irvq.onrender.com" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-A855F7?style=for-the-badge&logoColor=white" />
-      </a>
-      <a href="https://github.com/ayush123-star/my-realtime-chatapp" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://mits-canteen.vercel.app" target="_blank">
-        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/mits-canteen.png" width="100%" alt="MITS Canteen Platform" />
-      </a>
-      <br/>
-      <b><font color="#F97316">🍔 MITS Canteen Management</font></b>
-      <p><font color="#94A3B8">Digital ordering and cafeteria workflow system built specifically for MITS campus.</font></p>
-      <a href="https://mits-canteen.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-F97316?style=for-the-badge&logoColor=white" />
-      </a>
-      <a href="https://github.com/ayush123-star/Mits-Canteen" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<div align="center">
 
-  <!-- ROW 2 -->
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ayush123-star.github.io/Whether-Dashboard-/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/weather-dashboard.png" width="100%" alt="Weather Dashboard" />
-      </a>
-      <br/>
-      <b><font color="#38BDF8">🌦️ Real-Time Weather Dashboard</font></b>
-      <p><font color="#94A3B8">Global weather tracker querying Open-Meteo REST API for live temperature, wind & pressure.</font></p>
-      <a href="https://ayush123-star.github.io/Whether-Dashboard-/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-38BDF8?style=for-the-badge&logoColor=black" />
-      </a>
-      <a href="https://github.com/ayush123-star/Whether-Dashboard-" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ayush123-star.github.io/currency-converter-/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/currency-converter.png" width="100%" alt="Currency Converter" />
-      </a>
-      <br/>
-      <b><font color="#22C55E">💱 Real-Time Currency Converter</font></b>
-      <p><font color="#94A3B8">Live exchange rate converter with automatic country flag changes & quick swap mechanics.</font></p>
-      <a href="https://ayush123-star.github.io/currency-converter-/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logoColor=white" />
-      </a>
-      <a href="https://github.com/ayush123-star/currency-converter-" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+  <!-- PROJECT 1 -->
+  <a href="https://my-realtime-chatapp-irvq.onrender.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/chat-app.png" width="92%" alt="Real-Time Chat Application" />
+  </a>
+  <p align="center">
+    <b><font color="#C084FC">💬 Real-Time Chat Application</font></b> — Instant bidirectional chat app with live user join alerts & zero page reloads.<br/>
+    <a href="https://my-realtime-chatapp-irvq.onrender.com" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-A855F7?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://github.com/ayush123-star/my-realtime-chatapp" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <br/>
 
-  <!-- ROW 3 -->
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ayush123-star.github.io/Advanced-CSS3-Responsive-Architecture/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/css-architecture.png" width="100%" alt="CSS3 Architecture" />
-      </a>
-      <br/>
-      <b><font color="#EC4899">🎨 Advanced CSS3 Architecture</font></b>
-      <p><font color="#94A3B8">Pixel-perfect modern showcase featuring 2D CSS Grid, Flexbox, custom tokens & fluid typography.</font></p>
-      <a href="https://ayush123-star.github.io/Advanced-CSS3-Responsive-Architecture/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-EC4899?style=for-the-badge&logoColor=white" />
-      </a>
-      <a href="https://github.com/ayush123-star/Advanced-CSS3-Responsive-Architecture" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ayush123-star.github.io/webpage/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/webpage-ieee.png" width="100%" alt="IEEE Webpage" />
-      </a>
-      <br/>
-      <b><font color="#A855F7">⚡ IEEE MTT-S Workshop Registration</font></b>
-      <p><font color="#94A3B8">Accessible event portal with track selection, drag-and-drop resume upload & RegEx validation.</font></p>
-      <a href="https://ayush123-star.github.io/webpage/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-9333EA?style=for-the-badge&logoColor=white" />
-      </a>
-      <a href="https://github.com/ayush123-star/webpage" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+  <!-- PROJECT 2 -->
+  <a href="https://mits-canteen.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/mits-canteen.png" width="92%" alt="MITS Canteen Platform" />
+  </a>
+  <p align="center">
+    <b><font color="#F97316">🍔 MITS Canteen Management</font></b> — Digital ordering and cafeteria management platform built specifically for MITS campus.<br/>
+    <a href="https://mits-canteen.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-F97316?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://github.com/ayush123-star/Mits-Canteen" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <br/>
 
-  <!-- ROW 4 -->
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ayush123-star.github.io/tic-tac-toe-game/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/tic-tac-toe.png" width="100%" alt="Tic-Tac-Toe Game" />
-      </a>
-      <br/>
-      <b><font color="#8B5CF6">🎮 Interactive Tic-Tac-Toe Game</font></b>
-      <p><font color="#94A3B8">Classic 2-player browser game with win/draw detection, game reset & dynamic audio effects.</font></p>
-      <a href="https://ayush123-star.github.io/tic-tac-toe-game/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-8B5CF6?style=for-the-badge&logoColor=white" />
-      </a>
-      <a href="https://github.com/ayush123-star/tic-tac-toe-game" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://ayush123-star.github.io/Rock-Paper-Scissors-1/" target="_blank">
-        <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/rock-paper-scissors.png" width="100%" alt="Rock Paper Scissors" />
-      </a>
-      <br/>
-      <b><font color="#EAB308">✂️ Rock Paper Scissors Game</font></b>
-      <p><font color="#94A3B8">Player-vs-computer game with live score tracking, random AI move logic & sound effects.</font></p>
-      <a href="https://ayush123-star.github.io/Rock-Paper-Scissors-1/" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_Live_Demo-EAB308?style=for-the-badge&logoColor=black" />
-      </a>
-      <a href="https://github.com/ayush123-star/Rock-Paper-Scissors-1" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- PROJECT 3 -->
+  <a href="https://ayush123-star.github.io/Whether-Dashboard-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/weather-dashboard.png" width="92%" alt="Weather Dashboard" />
+  </a>
+  <p align="center">
+    <b><font color="#38BDF8">🌦️ Real-Time Weather Dashboard</font></b> — Global weather tracker querying Open-Meteo REST API for live temperature, wind & pressure.<br/>
+    <a href="https://ayush123-star.github.io/Whether-Dashboard-/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-38BDF8?style=for-the-badge&logoColor=black" />
+    </a>
+    <a href="https://github.com/ayush123-star/Whether-Dashboard-" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <br/>
+
+  <!-- PROJECT 4 -->
+  <a href="https://ayush123-star.github.io/currency-converter-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/currency-converter.png" width="92%" alt="Currency Converter" />
+  </a>
+  <p align="center">
+    <b><font color="#22C55E">💱 Real-Time Currency Converter</font></b> — Live exchange rate converter with automatic country flag changes & quick swap mechanics.<br/>
+    <a href="https://ayush123-star.github.io/currency-converter-/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://github.com/ayush123-star/currency-converter-" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <br/>
+
+  <!-- PROJECT 5 -->
+  <a href="https://ayush123-star.github.io/Advanced-CSS3-Responsive-Architecture/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/css-architecture.png" width="92%" alt="CSS3 Architecture" />
+  </a>
+  <p align="center">
+    <b><font color="#EC4899">🎨 Advanced CSS3 Architecture</font></b> — Pixel-perfect modern showcase featuring 2D CSS Grid, Flexbox, custom tokens & fluid typography.<br/>
+    <a href="https://ayush123-star.github.io/Advanced-CSS3-Responsive-Architecture/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-EC4899?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://github.com/ayush123-star/Advanced-CSS3-Responsive-Architecture" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <br/>
+
+  <!-- PROJECT 6 -->
+  <a href="https://ayush123-star.github.io/webpage/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/webpage-ieee.png" width="92%" alt="IEEE Webpage" />
+  </a>
+  <p align="center">
+    <b><font color="#A855F7">⚡ IEEE MTT-S Workshop Registration</font></b> — Accessible event portal with track selection, drag-and-drop resume upload & RegEx validation.<br/>
+    <a href="https://ayush123-star.github.io/webpage/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-9333EA?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://github.com/ayush123-star/webpage" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <br/>
+
+  <!-- PROJECT 7 -->
+  <a href="https://ayush123-star.github.io/tic-tac-toe-game/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/tic-tac-toe.png" width="92%" alt="Tic-Tac-Toe Game" />
+  </a>
+  <p align="center">
+    <b><font color="#8B5CF6">🎮 Interactive Tic-Tac-Toe Game</font></b> — Classic 2-player browser game with win/draw detection, game reset & dynamic audio effects.<br/>
+    <a href="https://ayush123-star.github.io/tic-tac-toe-game/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-8B5CF6?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://github.com/ayush123-star/tic-tac-toe-game" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <br/>
+
+  <!-- PROJECT 8 -->
+  <a href="https://ayush123-star.github.io/Rock-Paper-Scissors-1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/rock-paper-scissors.png" width="92%" alt="Rock Paper Scissors" />
+  </a>
+  <p align="center">
+    <b><font color="#EAB308">✂️ Rock Paper Scissors Game</font></b> — Player-vs-computer game with live score tracking, random AI move logic & sound effects.<br/>
+    <a href="https://ayush123-star.github.io/Rock-Paper-Scissors-1/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-EAB308?style=for-the-badge&logoColor=black" />
+    </a>
+    <a href="https://github.com/ayush123-star/Rock-Paper-Scissors-1" target="_blank">
+      <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+</div>
 
 <br/>
 
@@ -299,25 +273,15 @@
 
 <div align="center">
 
-  <!-- GITHUB SUMMARY & STREAK -->
-  <table border="0" cellpadding="4">
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush123-star&theme=radical" alt="Ayush's GitHub Profile Details" height="195px" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush123-star&theme=radical&hide_border=false&border_radius=8" alt="GitHub Streak Stats" height="195px" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush123-star&theme=radical" alt="Repos per Language" height="195px" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush123-star&theme=radical" alt="Most Commit Language" height="195px" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush123-star&theme=radical" alt="Ayush's GitHub Profile Details" width="46%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush123-star&theme=radical&hide_border=false&border_radius=8" alt="GitHub Streak Stats" width="46%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush123-star&theme=radical" alt="Repos per Language" width="46%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush123-star&theme=radical" alt="Most Commit Language" width="46%" />
+  </p>
 
   <br/>
 
@@ -328,7 +292,7 @@
     <font color="#FFA116">⚡</font>
   </h3>
   <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/mf6KatW2Tw?theme=radical&font=baloo&ext=activity" alt="Ayush's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/mf6KatW2Tw?theme=radical&font=baloo&ext=activity" alt="Ayush's LeetCode Stats" width="85%" />
   </a>
 
 </div>
@@ -346,19 +310,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush123-star/ayush123-star/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a470-11eb-832d-e8799b750455.gif" width="100%" />
-
-<!-- ======================== DYNAMIC DEV QUOTE EFFECT ======================== -->
-## <font color="#A855F7">✦</font> <font color="#C084FC">Daily Developer Fuel</font>
-
-<div align="center">
-  <a href="https://github.com/piyushsuthar/quotes-github-readme">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Dev Quote" />
-  </a>
 </div>
 
 <br/>
