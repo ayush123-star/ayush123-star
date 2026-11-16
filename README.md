@@ -5,22 +5,31 @@
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/banner.png" alt="Ayush Pandey Banner" width="100%" style="border-radius: 14px;" />
   </a>
 
-  <br/><br/>
+  <br/><br/><br/>
 
   <!-- ======================== ANIMATED TYPING HEADER ======================== -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=750&height=50&lines=Hi+there!+I'm+Ayush+Pandey+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;B.Tech+Electronics+%26+Telecom+%40+MITS+Gwalior+%E2%9A%A1;MERN+Stack+%2B+Socket.IO+Real-Time+Architect+%F0%9F%9A%80;Problem+Solver+%7C+DSA+%7C+LeetCode+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 
+  <br/><br/>
+
   <!-- ======================== PROFILE VIEWS & STATUS BADGES ======================== -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ayush123-star&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+    &nbsp;
     <img src="https://img.shields.io/github/followers/ayush123-star?label=FOLLOWERS&logo=github&style=for-the-badge&color=8B5CF6" alt="GitHub Followers" />
+    &nbsp;
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open to Opportunities" />
+    &nbsp;
     <img src="https://img.shields.io/badge/LOCATION-GWALIOR%2C_INDIA-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
+  <br/>
+
   <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
+
+  <br/><br/>
 
   <!-- ======================== QUICK CONNECT & DIRECT PROFILES ======================== -->
   <h2>
@@ -28,42 +37,56 @@
     <font color="#A855F7">Connect With Me</font>
     <font color="#C084FC">⚡</font>
   </h2>
+  
   <p><font color="#94A3B8"><i>Tap any card below to directly open my live profiles:</i></font></p>
+
+  <br/>
 
   <p align="center">
     <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
       <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_portfolio.png" width="165px" alt="Live Portfolio" />
     </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/ayush-pandey-a9161b275" target="_blank">
       <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_linkedin.png" width="165px" alt="LinkedIn Profile" />
     </a>
+    &nbsp;
     <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
       <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_leetcode.png" width="165px" alt="LeetCode Profile" />
     </a>
+    &nbsp;
     <a href="https://github.com/ayush123-star" target="_blank">
       <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_github.png" width="165px" alt="GitHub Profile" />
     </a>
+    &nbsp;
     <a href="mailto:pandeyayush1603@gmail.com">
       <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/connect/badge_gmail.png" width="165px" alt="Email Me" />
     </a>
   </p>
 
+  <br/>
+
   <p align="center">
     <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/ayush-pandey-a9161b275" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    &nbsp;
     <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
+    &nbsp;
     <a href="https://github.com/ayush123-star" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    &nbsp;
     <a href="mailto:pandeyayush1603@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    &nbsp;
     <a href="https://www.instagram.com/ayush_pandey_0816/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
@@ -71,9 +94,11 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
+
+<br/><br/>
 
 <!-- ======================== ABOUT ME ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">About Me</font>
@@ -81,23 +106,53 @@
 > 🎓 **Engineering Student & Full-Stack Developer**  
 > Pursuing **B.Tech in Electronics & Telecommunication (2025–2029)** at **Madhav Institute of Technology and Science (MITS), Gwalior**.
 
-- 🚀 **Full-Stack Web Engineering:** Architecting scalable, responsive web applications using modern JavaScript, Node.js, Express, and Socket.IO.
-- ⚡ **Real-Time Communication:** Specialized in persistent bidirectional event messaging, live dashboards, and low-latency client-server workflows.
-- 🎯 **DSA & Algorithmic Problem Solving:** Actively solving challenges on **LeetCode** and participating in coding contests with a focus on optimal time & space complexity.
-- 🏛️ **Campus Leadership:** Technical Team Member at **IEEE MTT-S Student Branch Chapter, MITS-DU**.
-- 🎸 **Passions Beyond Coding:** Playing acoustic guitar, capturing moments through photography, and exploring Japanese culture and language.
-- 📫 **Direct Contact:** [pandeyayush1603@gmail.com](mailto:pandeyayush1603@gmail.com) • [+91 90395 67623](tel:+919039567623)
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🎓_College-MITS_Gwalior-7C3AED?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚡_Club-IEEE_MTT--S_Member-0284C7?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/💼_Specialty-Full--Stack_%26_Socket.IO-10B981?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍_Location-Gwalior%2C_MP-EC4899?style=flat-square&logoColor=white" />
-</div>
+- 🚀 **Full-Stack Web Engineering:**  
+  Architecting scalable, responsive web applications using modern JavaScript, Node.js, Express, and Socket.IO.
 
 <br/>
 
+- ⚡ **Real-Time Communication:**  
+  Specialized in persistent bidirectional event messaging, live dashboards, and low-latency client-server workflows.
+
+<br/>
+
+- 🎯 **DSA & Algorithmic Problem Solving:**  
+  Actively solving challenges on **LeetCode** and participating in coding contests with a focus on optimal time & space complexity.
+
+<br/>
+
+- 🏛️ **Campus Leadership:**  
+  Technical Team Member at **IEEE MTT-S Student Branch Chapter, MITS-DU**.
+
+<br/>
+
+- 🎸 **Passions Beyond Coding:**  
+  Playing acoustic guitar, capturing moments through photography, and exploring Japanese culture and language.
+
+<br/>
+
+- 📫 **Direct Contact:**  
+  [pandeyayush1603@gmail.com](mailto:pandeyayush1603@gmail.com) • [+91 90395 67623](tel:+919039567623)
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_College-MITS_Gwalior-7C3AED?style=flat-square&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/⚡_Club-IEEE_MTT--S_Member-0284C7?style=flat-square&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/💼_Specialty-Full--Stack_%26_Socket.IO-10B981?style=flat-square&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/📍_Location-Gwalior%2C_MP-EC4899?style=flat-square&logoColor=white" />
+</div>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
+
+<br/><br/>
 
 <!-- ======================== TECH STACK & SKILLS ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Tech Stack & Tools</font>
@@ -106,7 +161,7 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,react,python,git,github,postman,vscode,figma,tailwind,bootstrap&perline=8" alt="Skills Matrix" />
 </div>
 
-<br/>
+<br/><br/>
 
 | Domain | Technologies, Frameworks & Tools |
 | :--- | :--- |
@@ -117,14 +172,18 @@
 | <font color="#A855F7"><b>DevOps & Deployment</b></font> | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) |
 | <font color="#F43F5E"><b>Analytics & Design</b></font> | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-<br/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
+
+<br/><br/>
 
 <!-- ======================== FEATURED PROJECTS SHOWCASE WITH PHOTOS ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Featured Projects Showcase</font>
 
 *<font color="#94A3B8">Every project uploaded on GitHub presented with interactive photo cards, tech stacks, live demos, and source codes:</font>*
+
+<br/>
 
 <div align="center">
 
@@ -133,115 +192,130 @@
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/chat-app.png" width="92%" alt="Real-Time Chat Application" />
   </a>
   <p align="center">
-    <b><font color="#C084FC">💬 Real-Time Chat Application</font></b> — Instant bidirectional chat app with live user join alerts & zero page reloads.<br/>
+    <b><font color="#C084FC">💬 Real-Time Chat Application</font></b> — Instant bidirectional chat app with live user join alerts & zero page reloads.<br/><br/>
     <a href="https://my-realtime-chatapp-irvq.onrender.com" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-A855F7?style=for-the-badge&logoColor=white" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ayush123-star/my-realtime-chatapp" target="_blank">
       <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-  <br/>
+  
+  <br/><br/>
 
   <!-- PROJECT 2 -->
   <a href="https://mits-canteen.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/mits-canteen.png" width="92%" alt="MITS Canteen Platform" />
   </a>
   <p align="center">
-    <b><font color="#F97316">🍔 MITS Canteen Management</font></b> — Digital ordering and cafeteria management platform built specifically for MITS campus.<br/>
+    <b><font color="#F97316">🍔 MITS Canteen Management</font></b> — Digital ordering and cafeteria management platform built specifically for MITS campus.<br/><br/>
     <a href="https://mits-canteen.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-F97316?style=for-the-badge&logoColor=white" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ayush123-star/Mits-Canteen" target="_blank">
       <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-  <br/>
+  
+  <br/><br/>
 
   <!-- PROJECT 3 -->
   <a href="https://ayush123-star.github.io/Whether-Dashboard-/" target="_blank">
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/weather-dashboard.png" width="92%" alt="Weather Dashboard" />
   </a>
   <p align="center">
-    <b><font color="#38BDF8">🌦️ Real-Time Weather Dashboard</font></b> — Global weather tracker querying Open-Meteo REST API for live temperature, wind & pressure.<br/>
+    <b><font color="#38BDF8">🌦️ Real-Time Weather Dashboard</font></b> — Global weather tracker querying Open-Meteo REST API for live temperature, wind & pressure.<br/><br/>
     <a href="https://ayush123-star.github.io/Whether-Dashboard-/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-38BDF8?style=for-the-badge&logoColor=black" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ayush123-star/Whether-Dashboard-" target="_blank">
       <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-  <br/>
+  
+  <br/><br/>
 
   <!-- PROJECT 4 -->
   <a href="https://ayush123-star.github.io/currency-converter-/" target="_blank">
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/currency-converter.png" width="92%" alt="Currency Converter" />
   </a>
   <p align="center">
-    <b><font color="#22C55E">💱 Real-Time Currency Converter</font></b> — Live exchange rate converter with automatic country flag changes & quick swap mechanics.<br/>
+    <b><font color="#22C55E">💱 Real-Time Currency Converter</font></b> — Live exchange rate converter with automatic country flag changes & quick swap mechanics.<br/><br/>
     <a href="https://ayush123-star.github.io/currency-converter-/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-22C55E?style=for-the-badge&logoColor=white" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ayush123-star/currency-converter-" target="_blank">
       <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-  <br/>
+  
+  <br/><br/>
 
   <!-- PROJECT 5 -->
   <a href="https://ayush123-star.github.io/Advanced-CSS3-Responsive-Architecture/" target="_blank">
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/css-architecture.png" width="92%" alt="CSS3 Architecture" />
   </a>
   <p align="center">
-    <b><font color="#EC4899">🎨 Advanced CSS3 Architecture</font></b> — Pixel-perfect modern showcase featuring 2D CSS Grid, Flexbox, custom tokens & fluid typography.<br/>
+    <b><font color="#EC4899">🎨 Advanced CSS3 Architecture</font></b> — Pixel-perfect modern showcase featuring 2D CSS Grid, Flexbox, custom tokens & fluid typography.<br/><br/>
     <a href="https://ayush123-star.github.io/Advanced-CSS3-Responsive-Architecture/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-EC4899?style=for-the-badge&logoColor=white" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ayush123-star/Advanced-CSS3-Responsive-Architecture" target="_blank">
       <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-  <br/>
+  
+  <br/><br/>
 
   <!-- PROJECT 6 -->
   <a href="https://ayush123-star.github.io/webpage/" target="_blank">
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/webpage-ieee.png" width="92%" alt="IEEE Webpage" />
   </a>
   <p align="center">
-    <b><font color="#A855F7">⚡ IEEE MTT-S Workshop Registration</font></b> — Accessible event portal with track selection, drag-and-drop resume upload & RegEx validation.<br/>
+    <b><font color="#A855F7">⚡ IEEE MTT-S Workshop Registration</font></b> — Accessible event portal with track selection, drag-and-drop resume upload & RegEx validation.<br/><br/>
     <a href="https://ayush123-star.github.io/webpage/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-9333EA?style=for-the-badge&logoColor=white" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ayush123-star/webpage" target="_blank">
       <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-  <br/>
+  
+  <br/><br/>
 
   <!-- PROJECT 7 -->
   <a href="https://ayush123-star.github.io/tic-tac-toe-game/" target="_blank">
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/tic-tac-toe.png" width="92%" alt="Tic-Tac-Toe Game" />
   </a>
   <p align="center">
-    <b><font color="#8B5CF6">🎮 Interactive Tic-Tac-Toe Game</font></b> — Classic 2-player browser game with win/draw detection, game reset & dynamic audio effects.<br/>
+    <b><font color="#8B5CF6">🎮 Interactive Tic-Tac-Toe Game</font></b> — Classic 2-player browser game with win/draw detection, game reset & dynamic audio effects.<br/><br/>
     <a href="https://ayush123-star.github.io/tic-tac-toe-game/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-8B5CF6?style=for-the-badge&logoColor=white" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ayush123-star/tic-tac-toe-game" target="_blank">
       <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-  <br/>
+  
+  <br/><br/>
 
   <!-- PROJECT 8 -->
   <a href="https://ayush123-star.github.io/Rock-Paper-Scissors-1/" target="_blank">
     <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/projects/rock-paper-scissors.png" width="92%" alt="Rock Paper Scissors" />
   </a>
   <p align="center">
-    <b><font color="#EAB308">✂️ Rock Paper Scissors Game</font></b> — Player-vs-computer game with live score tracking, random AI move logic & sound effects.<br/>
+    <b><font color="#EAB308">✂️ Rock Paper Scissors Game</font></b> — Player-vs-computer game with live score tracking, random AI move logic & sound effects.<br/><br/>
     <a href="https://ayush123-star.github.io/Rock-Paper-Scissors-1/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-EAB308?style=for-the-badge&logoColor=black" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ayush123-star/Rock-Paper-Scissors-1" target="_blank">
       <img src="https://img.shields.io/badge/💻_Source_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
@@ -249,7 +323,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <a href="https://github.com/ayush123-star?tab=repositories" target="_blank">
@@ -257,9 +331,11 @@
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
+
+<br/><br/>
 
 <!-- ======================== GITHUB STATS & STREAK & LEETCODE ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Activity, GitHub Stats & LeetCode Performance</font>
@@ -268,15 +344,19 @@
 
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush123-star&theme=radical" alt="Ayush's GitHub Profile Details" width="46%" />
+    &nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush123-star&theme=radical&hide_border=false&border_radius=8" alt="GitHub Streak Stats" width="46%" />
   </p>
 
+  <br/>
+
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush123-star&theme=radical" alt="Repos per Language" width="46%" />
+    &nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush123-star&theme=radical" alt="Most Commit Language" width="46%" />
   </p>
 
-  <br/>
+  <br/><br/>
 
   <!-- LEETCODE CARD -->
   <h3>
@@ -284,18 +364,25 @@
     <font color="#C084FC">LeetCode DSA Problem Solving Stats</font>
     <font color="#FFA116">⚡</font>
   </h3>
+  
+  <br/>
+
   <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
     <img src="https://leetcard.jacoblin.cool/mf6KatW2Tw?theme=radical&font=baloo&ext=activity" alt="Ayush's LeetCode Stats" width="85%" />
   </a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
 
+<br/><br/>
+
 <!-- ======================== SNAKE ANIMATION ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Contribution Snake Animation</font>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -305,25 +392,60 @@
   </picture>
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
+
+<br/><br/>
 
 <!-- ======================== CERTIFICATIONS & HACKATHONS ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Certifications & Hackathons</font>
 
-- 🏅 **<font color="#A855F7">Automate India Hackathon 2026</font>** – Powered by HackBriven at Microsoft Office, Noida
-- 🌟 **<font color="#38BDF8">Google Student Ambassador Program 2026</font>** – Fund My Crazy: Build Night Edition
-- 💻 **<font color="#FBBF24">GFG - Code Rush</font>** – Competitive Programming & Algorithmic Problem Solving
-- 🎯 **<font color="#EC4899">No Code Knockout</font>** – IETE Students' Forum, MITS-DU
-- 📊 **<font color="#34D399">MS Power Bootcamp & Power BI</font>** – Department of ETE & IETE Bhopal Center
-- ⚡ **<font color="#F97316">Renewable Energy at URJA 2026</font>** – Electrical Engineering Department
-- 📜 **<font color="#C084FC">Web Development Internship Certificate & LOR</font>** – Thiranex
-- 🎖️ **<font color="#38BDF8">Internship Common Aptitude Test (ICAT)</font>**
+<br/>
+
+- 🏅 **<font color="#A855F7">Automate India Hackathon 2026</font>**  
+  ↳ <font color="#94A3B8">Powered by HackBriven at Microsoft Office, Noida</font>
 
 <br/>
 
+- 🌟 **<font color="#38BDF8">Google Student Ambassador Program 2026</font>**  
+  ↳ <font color="#94A3B8">Fund My Crazy: Build Night Edition</font>
+
+<br/>
+
+- 💻 **<font color="#FBBF24">GFG - Code Rush</font>**  
+  ↳ <font color="#94A3B8">Competitive Programming & Algorithmic Problem Solving</font>
+
+<br/>
+
+- 🎯 **<font color="#EC4899">No Code Knockout</font>**  
+  ↳ <font color="#94A3B8">IETE Students' Forum, MITS-DU</font>
+
+<br/>
+
+- 📊 **<font color="#34D399">MS Power Bootcamp & Power BI</font>**  
+  ↳ <font color="#94A3B8">Department of ETE & IETE Bhopal Center</font>
+
+<br/>
+
+- ⚡ **<font color="#F97316">Renewable Energy at URJA 2026</font>**  
+  ↳ <font color="#94A3B8">Department of Electrical Engineering</font>
+
+<br/>
+
+- 📜 **<font color="#C084FC">Web Development Internship Certificate & LOR</font>**  
+  ↳ <font color="#94A3B8">Thiranex (Web Interface & Backend Integration)</font>
+
+<br/>
+
+- 🎖️ **<font color="#38BDF8">Internship Common Aptitude Test (ICAT)</font>**  
+  ↳ <font color="#94A3B8">National Technical Aptitude Assessment</font>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/ayush123-star/ayush123-star/main/assets/line.png" width="100%" />
+
+<br/><br/>
 
 <!-- ======================== CONTACT ME FOOTER ======================== -->
 ## <font color="#A855F7">✦</font> <font color="#C084FC">Let's Connect & Talk</font>
@@ -335,30 +457,39 @@
   </font>
 </p>
 
+<br/>
+
 <div align="center">
 
   <a href="mailto:pandeyayush1603@gmail.com">
     <img src="https://img.shields.io/badge/Email-pandeyayush1603%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ayush-pandey-a9161b275" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ayush_Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://portfolio-jade-two-92.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-portfolio--jade--two--92.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/mf6KatW2Tw" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-mf6KatW2Tw-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <br/><br/>
+  <br/><br/><br/>
 
   <p align="center">
     <font color="#A855F7"><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></font>
   </p>
 
+  <br/>
+
   <p align="center">
     Designed with ❤️ by <b><font color="#C084FC">Ayush Pandey</font></b> • © 2026 All Rights Reserved
   </p>
+
+  <br/>
 
   <!-- Waving Gradient Footer Effect -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35&height=90&section=footer" width="100%" />
